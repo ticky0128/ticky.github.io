@@ -3,11 +3,11 @@
   <title>ticky想要逃离</title>
   
   <subtitle>树洞</subtitle>
-  <link href="http://ticky0128.github.io/atom.xml" rel="self"/>
+  <link href="http://ticky.life/atom.xml" rel="self"/>
   
-  <link href="http://ticky0128.github.io/"/>
+  <link href="http://ticky.life/"/>
   <updated>2020-11-13T07:51:07.589Z</updated>
-  <id>http://ticky0128.github.io/</id>
+  <id>http://ticky.life/</id>
   
   <author>
     <name>Ticky</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>article</title>
-    <link href="http://ticky0128.github.io/uncategorized/article/"/>
-    <id>http://ticky0128.github.io/uncategorized/article/</id>
+    <link href="http://ticky.life/uncategorized/article/"/>
+    <id>http://ticky.life/uncategorized/article/</id>
     <published>2020-11-13T07:51:07.000Z</published>
     <updated>2020-11-13T07:51:07.589Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://ticky0128.github.io/uncategorized/hello-world/"/>
-    <id>http://ticky0128.github.io/uncategorized/hello-world/</id>
+    <link href="http://ticky.life/uncategorized/hello-world/"/>
+    <id>http://ticky.life/uncategorized/hello-world/</id>
     <published>2020-11-11T06:10:53.532Z</published>
     <updated>2020-11-12T08:23:55.746Z</updated>
     
