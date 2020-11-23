@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/ 
+
+Sitemap: https://ticky.life/sitemap.xml
+Sitemap: https://ticky.life/baidusitemap.xml
