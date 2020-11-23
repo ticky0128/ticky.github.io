@@ -6,7 +6,7 @@
   <link href="http://ticky.life/atom.xml" rel="self"/>
   
   <link href="http://ticky.life/"/>
-  <updated>2020-11-23T10:16:07.414Z</updated>
+  <updated>2020-11-23T10:27:58.797Z</updated>
   <id>http://ticky.life/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>article</title>
-    <link href="http://ticky.life/python/%E8%87%AA%E5%8A%A8%E5%8C%96/11/23"/>
-    <id>http://ticky.life/python/%E8%87%AA%E5%8A%A8%E5%8C%96/11/23</id>
+    <title>使用电商管理后台API进行自动化测试（一）</title>
+    <link href="http://ticky.life/python/11/23/"/>
+    <id>http://ticky.life/python/11/23/</id>
     <published>2020-11-23T07:51:07.000Z</published>
-    <updated>2020-11-23T10:16:07.414Z</updated>
+    <updated>2020-11-23T10:27:58.797Z</updated>
     
     
       
@@ -35,8 +35,6 @@
     
     
     <category term="python" scheme="http://ticky.life/categories/python/"/>
-    
-    <category term="自动化" scheme="http://ticky.life/categories/python/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
     
     
     <category term="接口自动化测试" scheme="http://ticky.life/tags/%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/"/>
