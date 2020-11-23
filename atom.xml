@@ -6,7 +6,7 @@
   <link href="http://ticky.life/atom.xml" rel="self"/>
   
   <link href="http://ticky.life/"/>
-  <updated>2020-11-13T07:51:07.589Z</updated>
+  <updated>2020-11-23T10:10:21.974Z</updated>
   <id>http://ticky.life/</id>
   
   <author>
@@ -18,35 +18,28 @@
   
   <entry>
     <title>article</title>
-    <link href="http://ticky.life/uncategorized/article/"/>
-    <id>http://ticky.life/uncategorized/article/</id>
-    <published>2020-11-13T07:51:07.000Z</published>
-    <updated>2020-11-13T07:51:07.589Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://ticky.life/uncategorized/hello-world/"/>
-    <id>http://ticky.life/uncategorized/hello-world/</id>
-    <published>2020-11-11T06:10:53.532Z</published>
-    <updated>2020-11-12T08:23:55.746Z</updated>
+    <link href="http://ticky.life/python/%E8%87%AA%E5%8A%A8%E5%8C%96/article/"/>
+    <id>http://ticky.life/python/%E8%87%AA%E5%8A%A8%E5%8C%96/article/</id>
+    <published>2020-11-23T07:51:07.000Z</published>
+    <updated>2020-11-23T10:10:21.974Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;使用电商管理后台API进行自动化测试（一）&quot;&gt;&lt;a href=&quot;#使用电商管理后台API进行自动化测试（一）&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
     
+    <category term="python" scheme="http://ticky.life/categories/python/"/>
+    
+    <category term="自动化" scheme="http://ticky.life/categories/python/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    
+    
+    <category term="接口自动化测试" scheme="http://ticky.life/tags/%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
