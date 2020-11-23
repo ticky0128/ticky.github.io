@@ -3,6 +3,11 @@ Allow: /
 Allow: /archives/
 Allow: /categories/
 Allow: /tags/ 
+Allow: /resources/ 
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
 
-Sitemap: https://ticky.life/sitemap.xml
-Sitemap: https://ticky.life/baidusitemap.xml
+Sitemap:  https://ticky.life/sitemap.xml
+Sitemap:  https://ticky.life/baidusitemap.xml
