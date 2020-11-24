@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
+<url>
     <loc>http://ticky.life/python/11/23/</loc>
+    
     <lastmod>2020-11-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ticky.life/contact/index.html</loc>
+    
+    <lastmod>2020-11-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ticky.life/404.html</loc>
+    
+    <lastmod>2020-11-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ticky.life/about/index.html</loc>
+    
+    <lastmod>2020-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ticky.life/tags/index.html</loc>
+    
+    <lastmod>2020-11-11</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ticky.life/categories/index.html</loc>
+    
+    <lastmod>2020-11-11</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://ticky.life/</loc>
+    <lastmod>2020-11-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://ticky.life/tags/%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-11-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://ticky.life/categories/python/</loc>
+    <lastmod>2020-11-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset> 
